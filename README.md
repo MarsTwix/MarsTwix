@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Software Developer from 🇳🇱
+
+[![MarsTwix's' Github Stats](https://github-readme-stats.vercel.app/api?username=MarsTwix&count_private=true&show_icons=true)](https://github.com/MarsTwix)
+
 <!--
 **MarsTwix/MarsTwix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
