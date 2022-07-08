@@ -2,7 +2,7 @@
 
 I'm a Software Developer from 🇳🇱
 
-[![MarsTwix's' Github Stats](https://github-readme-stats.vercel.app/api?username=MarsTwix&theme=material-palenight&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/MarsTwix)
+[![MarsTwix's' Github Stats](https://github-readme-stats.vercel.app/api?username=MarsTwix&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/MarsTwix)
 <br>
 [![MarsTwix's' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsTwix)](https://github.com/MarsTwix/github-readme-stats)
 <!--
